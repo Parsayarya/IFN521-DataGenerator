@@ -1,7 +1,4 @@
 # IFN521-DataGenerator
-# Emergency Department AI Triage Survey Analysis
-
-This repository contains code for generating and analysing synthetic survey data of emergency department practitioners' attitudes toward AI triage systems, with a focus on transparency, trust, and disclosure preferences.
 
 ## Overview
 
