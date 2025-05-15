@@ -14,7 +14,7 @@ The code simulates a survey of emergency department practitioners (physicians, n
 ## Features
 
 ###  Data Generation
-- ** Role Distribution**: Generates practitioners across six different ED roles (Emergency Medicine Physicians, ED Nurses, Triage Nurses, Physician Assistants, Nurse Practitioners, and Administrators) with proportions reflecting actual ED staffing patterns
+- **Role Distribution**: Generates practitioners across six different ED roles (Emergency Medicine Physicians, ED Nurses, Triage Nurses, Physician Assistants, Nurse Practitioners, and Administrators) with proportions reflecting actual ED staffing patterns
 - **Experience Stratification**: Creates a realistic distribution of experience levels from less than 1 year to more than 20 years with appropriate weighting toward mid-career professionals
 - **AI Exposure Modelling**: Simulates  levels of exposure to different AI tools, including triage systems, diagnostic tools, decision support systems, AI-embedded EHRS, and risk scoring systems
 - **Technology Comfort Simulation**: Models practitioners' comfort with technology on a 5-point scale with correlations to AI usage
